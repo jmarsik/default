@@ -1,5 +1,6 @@
 [
   "bieniu/ha-shellies-discovery",
   "bieniu/ha-thermostat-update",
-  "mf-social/ps-date-countdown"
+  "mf-social/ps-date-countdown",
+  "H89P/ps-device_distance_script"
 ]
